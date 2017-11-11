@@ -1,6 +1,6 @@
-#Chess
+# Chess
 
-###How to Play
+### How to Play
 ---
 
 In order to play, you must first have Ruby installed on your computer. You can then download the source code, pull up your command line utility (Terminal, iTerm, etc.), and navigate to the directory.
